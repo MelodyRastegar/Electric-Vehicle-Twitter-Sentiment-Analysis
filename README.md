@@ -10,5 +10,6 @@ The goal of this project is to build a machine learning model and build a classi
 - Each row contains the text of a tweet and a sentiment label. In the dataset, we are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment.
 - Total tweets collected were 27481 with 4 different columns.
 # Practical Application
+for example my users wants to know if he can invest stock then my app will collect tweets and will show the users how much percents of tweets was positivie about invetsing stock in Tesla.
 # Milestones
 # References
