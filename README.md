@@ -1,4 +1,4 @@
-# Tesla-
+# Electric Vehicle Twitter Sentiment Analysis
 # Overview    
 Electronic  Vehicles  (EV)  have  seen  a  rise  in worldwide interest in recent years and thus have grabbed the attention of  the public and investors due to many reasons such as enviromental concerin increasing. additionally, the huge difference in cost between operating electric cars compared with gasoline car is one of the most important consideration. 
 # Background and Motivation
